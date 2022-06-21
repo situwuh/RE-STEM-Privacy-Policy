@@ -1,2 +1,2 @@
-# sitiwuh_privacy_policy
-This repository contains the privacy policy of the Tuwuh android application
+# RE-STEM Privacy Policy
+This repository contains the privacy policy of the RE-STEM Android Application.
